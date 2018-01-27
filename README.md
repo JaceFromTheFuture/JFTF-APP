@@ -3,18 +3,23 @@
 A portfolio website and a blog service will be developed for a local artist, Jace.
 The website will allow Jace to post new music as well as blog posts.
 The website will allow the artist to gain exposure and start to create a following.
-The target audience will be people who like music and would like to stay up to date with new releases from Jace.
+The target audience will be people who like music and would like to stay up to date with new releases from Jace. This project was created for Web Systems Integration at IIT.
+
+This Project was previously located at
+https://github.com/JaceFromTheFuture/JaceFromTheFuture.github.io.git
 
 ## Instillation Instructions
 
-Clone the repository.
-https://github.com/JaceFromTheFuture/JaceFromTheFuture.github.io.git
+Clone the repository
+https://github.com/JaceFromTheFuture/JFTF-APP.git
 
 NPM install to install the application.
 
 NPM start to run it.
 
 Head to localhost:3000 to view the site.
+
+This app requires two files containing credentials for AWS and the database string. Add your AWS credentials to a file called aws_credentials. Add your DB string to a file called mongo.
 
 ### Use Case 1
 
@@ -43,27 +48,21 @@ Chris can also follow the links to Jace’s social media accounts.
 
 ## Technologies
 
-The website will follow a more traditional method of deploying websites.
-The client side technologies will be HTML CSS and JavaScript. Java will be used on the server side.
-I am also planning on using one of the Database as a service for example Amazon’s DynamoDB.
-
 ### User Interfaces
-*Responsive Interface - The site will have a mobile-first responsive interface to improve user experience.
-*CSS3 animations – Animations and micro interactions to improve the interface.
+Responsive Interface - The site has a mobile-first responsive interface to improve user experience.
 
 ### Server Technologies
-*API Server - The service will be the blog functionality.
-*File Uploads – File uploads will happen when adding a new song and uploading images for blogs.
-*Email Integration – Users will have the ability to sign up to the mailing list to stay up to date with the latest content.
+API Server - The service will be the blog functionality.
+File Uploads – File uploads will happen when adding a new song and uploading images for blogs.
 
 ### Database
-*Database as a service
+Database as a service using MLab.
 
 ### Service Integration
-*Facebook Login – Jace will be able to login via Facebook.
+Integration with Amazon S3 for file uploads
 
 
-## Outline
+## Project Plan
 
 Week | Plan
 ------------ | -------------
