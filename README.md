@@ -70,12 +70,12 @@ Week 1 | Intro
 Week 2 | Research – Start researching to choose an Idea for the project.
 Week 3 | Project Scope and Plan – Setup GitHub repository and create a plan for the project
 Week 4 | Design Research – Begin to define necessary components for the site.
-Week 5 | Basic HTML, JavaScript and CSS - Setup files and start working on the skeleton for the site. Work on login for the page. Goal: Login functionality complete
-Week 6 | Basic HTML, JavaScript and CSS - continue to add details and styling. Begin working with the server side technologies and Database.Goal: First end to end request run.
+Week 5 | Basic HTML, JavaScript and CSS - Setup files and start working on the skeleton for the site.
+Week 6 | Basic HTML, JavaScript and CSS - continue to add details and styling. Begin working with the server side technologies and Database.
 Week 7 | Blog service - Continue to work with backend and start to get the blog service working.
 Week 8 | Goal: Blog functionality complete.
-Week 9 |  Goal: Mailing list functionality complete
-Week 10 | Mid project Checking Goal: be able to show functionality of basic website.
+Week 9 |  
+Week 10 | Mid project Checking Goal: Be able to show functionality of basic website.
 Week 11 | Work on any recommendations from midweek check-in.
 Week 12 | Continue to work on styling and functionality.
 Week 13 | Goal: Page functionality is complete.
